@@ -1,0 +1,7 @@
+{
+  "target": "es2017",
+  "entrypoints": {
+    "./client": "./client/index.ts",
+    "./server": "./server/index.ts"
+  }
+}
